@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+
+ .container {
+    border-color: black;
+    border-radius: 20px;
+    border-width: 4;
+    border-style: solid;
+    
+ }
+.create-top-margin {
+   margin-top: 5vh;
+
+}
+
+ .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+   
+ }
